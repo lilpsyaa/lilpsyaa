@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/232499542?s=400&u=511a3db732f53b32729ed250c284c61f4155e3d2&v=4" align="center" style="width: 50%, height: 50%" />
-</div>  
-  
-
 ### <div align="center">Hola, I'm Pasya! 👋
 
 I'm a developer who believes that good code is code that solves problems. I help businesses and individuals transform their visions into functional web applications and software.
